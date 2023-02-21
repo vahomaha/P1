@@ -15,6 +15,7 @@ public class JavaApplication16 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Welcome to Java");
     }
     
 }
